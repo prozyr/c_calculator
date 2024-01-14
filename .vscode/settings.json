@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "stdbool.h": "c",
-        "gtk.h": "c"
+        "gtk.h": "c",
+        "ios": "c"
     }
 }
